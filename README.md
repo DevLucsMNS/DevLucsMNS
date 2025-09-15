@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Lucas!
 
-<!--
-**DevLucsMNS/DevLucsMNS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia.  
+🚀 Explorando **dados** e como eles podem gerar impacto real nas empresas.  
+💡 Sempre em busca de aprender coisas novas e criar soluções inteligentes.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias & Ferramentas
+- **Linguagens:** Python, SQL, JavaScript  
+- **Ferramentas:** Git, GitHub, Power BI, Excel Avançado  
+- **Interesses:** Ciência de Dados, Análise, Backend e Automação  
+
+---
+
+## 📈 GitHub Stats
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevLucsMNS&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevLucsMNS&layout=compact&theme=dracula)
+
+---
+
+## 📫 Onde me encontrar
+- 💼 [LinkedIn](https://www.linkedin.com/in/lucasmns7/)  
+- 📧 Email: lucasmoreiranunes2017@gmail.com  
+
+---
+✨ Sempre aberto a aprender e compartilhar conhecimento!
