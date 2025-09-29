@@ -1,5 +1,4 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=2DC0FF&height=200&section=header&text=Olá,%20Seja+Bem+Vindo(a)%20🎮&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35)
-
 ---
 
 🎯 Estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia.  
