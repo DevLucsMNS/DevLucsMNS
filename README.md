@@ -25,4 +25,4 @@
 - 📧 Email: lucasmoreiranunes2017@gmail.com  
 
 ---
-✨ Sempre aberto a aprender e compartilhar conhecimento!
+![Footer](https://capsule-render.vercel.app/api?type=transparent&fontColor=8A2BE2&height=120&section=footer&text=✨+“Cada+linha+de+código+é+XP+✨&fontSize=30)
