@@ -22,7 +22,7 @@
 
 #
 
-## 📫 Onde me encontrar
+ 📫 Onde me encontrar
 - 💼 LinkedIn: https://www.linkedin.com/in/lucasmns7/
 - 📧 Email: lucasmoreiranunes2017@gmail.com
 
