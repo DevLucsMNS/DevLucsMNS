@@ -16,9 +16,9 @@
 ---
 
 ## 📈 GitHub Stats
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevLucsMNS&show_icons=true&theme=dracula)
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevLucsMNS&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevLucsMNS&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevLucsMNS&layout=compact&theme=tokyonight)
 
 ---
 
