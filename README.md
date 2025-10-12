@@ -1,7 +1,5 @@
 # Lucas Moreira
 
----
-
 🎯 Estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia.  
 🚀 Explorando **dados** e como eles podem gerar impacto real nas empresas.  
 💡 Sempre em busca de aprender coisas novas e criar soluções inteligentes.  
