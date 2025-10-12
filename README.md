@@ -32,5 +32,8 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DevLucsMNS/DevLucsMNS/output/github-contribution-grid-snake.svg">
 </picture>
 
----
-![Footer](https://capsule-render.vercel.app/api?type=transparent&fontColor=0AF5D2&height=120&section=footer&text=✨+Cada+linha+de+código+é+XP+✨&fontSize=30)
+<div align="center"> 
+  <a href="https://git.io/typing-svg"><img 
+     src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=428&lines=%22O+mundo+%C3%A9+o+reflexo+da+nossa+mente%22.;%22Sendo+1%25+melhor+todos+os+dias%22" 
+     alt="Typing SVG" /></a>
+</div>
