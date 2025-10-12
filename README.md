@@ -1,4 +1,6 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0AF5D2&height=200&section=header&text=Olá,%20Seja+Bem+Vindo(a)%20🎮&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35)
+<p align="center"><a href="https://github.com/DevLucsMNS"><img width="80%" alt="Hello, I'm Lucas. Apaixonado por tecnologia!" src="./assets/gh-readme-header.png" /></a></p>
+
+<br />
 
 ---
 
