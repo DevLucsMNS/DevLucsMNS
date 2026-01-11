@@ -22,7 +22,7 @@
     </td>
     <td width="45%" align="center" valign="middle">
       
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmRkYzRkZjRkZjRkZjRkZjRkZjRkZjRkZjRkZjRkZjRkZjRkZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3o7btQ8jDTPLmmcMfe/giphy.gif" width="90%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
+      <img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="100%" />
       
     </td>
   </tr>
