@@ -1,68 +1,71 @@
 <div align="center">
 
-# 🛰️ Estação de Operações: Lucas Moreira
-**Análise e Desenvolvimento de Sistemas | Cruzeiro do Sul**
+# Lucas Moreira
+### Análise e Desenvolvimento de Sistemas | Cruzeiro do Sul
 
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<table width="100%" border="0" cellspacing="0" cellpadding="5">
+<table border="0" width="100%" cellspacing="0" cellpadding="15">
   <tr>
-    <td width="70%" align="left" valign="middle">
-      <h3>🚀 Status da Missão</h3>
-      <ul>
-        <li>🎓 <b>Estudante de ADS na Cruzeiro do Sul:</b> Focado no desenvolvimento de sistemas robustos e eficientes.</li>
-        <li>🌌 <b>Engenharia de Software:</b> Apaixonado por transformar linhas de código em novos mundos funcionais.</li>
-        <li>🔭 <b>Evolução Contínua:</b> Em busca constante de novas tecnologias e soluções inteligentes para desafios complexos.</li>
-        <li>⚙️ <b>Arquitetura de Dados:</b> Atualmente aprofundando conhecimentos em lógica de programação aplicada à Ciência de Dados.</li>
-        <li>🛠️ <b>Automação e Infraestrutura:</b> Interessado em otimizar processos de backend e gestão de infraestrutura Linux.</li>
+    <td width="55%" valign="middle">
+      <br>
+      <p align="left">
+        Engenheiro de software em formação, focado na arquitetura de sistemas escaláveis e na inteligência de dados.
+      </p>
+      <ul align="left">
+        <li>🔭 <b>Foco:</b> Backend robusto, Ciência de Dados e Infraestrutura Linux.</li>
+        <li>🌱 <b>Estudando:</b> Padrões de projeto e otimização de queries SQL.</li>
+        <li>🧠 <b>Abordagem:</b> Código limpo, minimalista e eficiente.</li>
       </ul>
-      <p><i>Focado em converter dados brutos em insights estratégicos através de análise técnica e automação.</i></p>
+      <p align="left"><i>"A simplicidade é o último grau de sofisticação."</i></p>
     </td>
-    <td width="30%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" style="max-width: 250px;">
+    <td width="45%" align="center" valign="middle">
+      
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmRkYzRkZjRkZjRkZjRkZjRkZjRkZjRkZjRkZjRkZjRkZjRkZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3o7btQ8jDTPLmmcMfe/giphy.gif" width="90%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
+      
     </td>
   </tr>
 </table>
 
----
+<br>
 
-### 🌌 Tecnologias e Ferramentas
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel_Avançado-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-</p>
-<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /></p>
-
----
-
-### 📊 Radar da Estação (GitHub Stats)
+### 🛠️ Core Technologies
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevLucsMNS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLucsMNS&layout=compact&langs_count=7&theme=tokyonight" />
+  <img src="https://img.shields.io/badge/C-black?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-black?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-black?style=flat-square&logo=power-bi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=git&logoColor=white" />
 </p>
 
----
+<br>
 
-### 📡 Comunicação Intergaláctica
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<p align="left">
+<br>
+
+### 📊 Development Analytics
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DevLucsMNS&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLucsMNS&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0d1117" />
+  </a>
+</p>
+
+<br>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/lucasmns7/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Connect-LinkedIn-black?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:lucasmoreiranunes2017@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Contact-Email-black?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<img align="center" alt="" height="190px" src="./src/study.gif">
+</div>
