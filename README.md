@@ -7,9 +7,9 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<table border="0">
+<table width="100%" border="0" cellspacing="0" cellpadding="5">
   <tr>
-    <td width="75%" valign="top">
+    <td width="70%" align="left" valign="middle">
       <h3>🚀 Status da Missão</h3>
       <ul>
         <li>🎓 <b>Estudante de ADS na Cruzeiro do Sul</b></li>
@@ -18,8 +18,8 @@
       </ul>
       <p>Focado em <b>Ciência de Dados</b>, <b>Análise</b>, <b>Backend</b> e <b>Automação</b>.</p>
     </td>
-    <td width="25%" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212284158-e4f125c0-4315-46f9-8d1a-47d0689b71f9.gif" width="150">
+    <td width="30%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" style="max-width: 250px;">
     </td>
   </tr>
 </table>
