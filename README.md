@@ -7,21 +7,19 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<table border="0" width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="5">
   <tr>
-    <td width="65%" valign="top">
+    <td width="70%" align="left" valign="middle">
       <h3>🚀 Status da Missão</h3>
       <ul>
-        <li>🎓 <b>Estudante de ADS na Cruzeiro do Sul:</b> Focado no desenvolvimento de sistemas robustos, escaláveis e eficientes.</li>
-        <li>🌌 <b>Engenharia de Software:</b> Apaixonado por transformar linhas de código em novos mundos funcionais através de lógica avançada.</li>
-        <li>🔭 <b>Evolução Contínua:</b> Em busca constante de novas tecnologias e soluções inteligentes para desafios complexos de backend.</li>
-        <li>⚙️ <b>Arquitetura de Dados:</b> Atualmente aprofundando conhecimentos em Python e SQL aplicados à Ciência de Dados.</li>
-        <li>🛠️ <b>Automação e Infraestrutura:</b> Interessado em otimizar processos de sistemas e gestão de infraestrutura Linux.</li>
-        <li>🖥️ <b>Fullstack Foundation:</b> Sólida base em tecnologias web como HTML5, CSS3 e JavaScript para interfaces dinâmicas.</li>
+        <li>🎓 <b>Estudante de ADS na Cruzeiro do Sul</b></li>
+        <li>🌌 <b>Apaixonado por transformar linhas de código em novos mundos funcionais.</b></li>
+        <li>🔭 <b>Em busca constante de novas tecnologias e soluções inteligentes.</b></li>
       </ul>
+      <p>Focado em <b>Ciência de Dados</b>, <b>Análise</b>, <b>Backend</b> e <b>Automação</b>.</p>
     </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/212241775-063f11f7-48cf-4514-8b8a-609b2e6124cb.gif" width="100%">
+    <td width="30%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" style="max-width: 250px;">
     </td>
   </tr>
 </table>
@@ -47,7 +45,7 @@
 ### 📊 Radar da Estação (GitHub Stats)
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevLucsMNS&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevLucsMNS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLucsMNS&layout=compact&langs_count=7&theme=tokyonight" />
 </p>
 
