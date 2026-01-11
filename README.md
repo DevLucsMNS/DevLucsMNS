@@ -3,7 +3,9 @@
 # 🛰️ Estação de Operações: Lucas Moreira
 **Análise e Desenvolvimento de Sistemas | Cruzeiro do Sul**
 
----
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <table border="0">
   <tr>
@@ -43,8 +45,8 @@
 ### 📊 Radar da Estação (GitHub Stats)
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevLucsMNS&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLucsMNS&layout=compact&langs_count=7&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevLucsMNS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLucsMNS&layout=compact&langs_count=7&theme=tokyonight" />
 </p>
 
 ---
@@ -59,5 +61,3 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-</div>
