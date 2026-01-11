@@ -1,37 +1,40 @@
 <div align="center">
 
-# 🛰️ Estação de Operações: Lucas Moreira
-**Análise e Desenvolvimento de Sistemas | Cruzeiro do Sul**
+<img src="https://user-images.githubusercontent.com/74038190/212284087-b3400234-e645-4664-824a-261bdd147908.gif" width="100%">
+
+# Lucas Moreira
+### ☕ Estudante de Análise e Desenvolvimento de Sistemas | Cruzeiro do Sul
+
+<br>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<table width="100%" border="0" cellspacing="0" cellpadding="5">
+<table border="0" width="100%" cellspacing="0" cellpadding="5">
   <tr>
-    <td width="70%" align="left" valign="middle">
-      <h3>🚀 Status da Missão</h3>
+    <td width="60%" valign="middle">
+      <h3>🎧 Coding & Chill Session</h3>
+      <p>Bem-vindo ao meu espaço de estudos. Sou um estudante de <b>ADS</b> focado em transformar café e beats relaxantes em soluções de software eficientes.</p>
       <ul>
-        <li>🎓 <b>Estudante de ADS na Cruzeiro do Sul:</b> Focado no desenvolvimento de sistemas robustos e eficientes.</li>
-        <li>🌌 <b>Engenharia de Software:</b> Apaixonado por transformar linhas de código em novos mundos funcionais e escaláveis.</li>
-        <li>🔭 <b>Evolução Contínua:</b> Em busca constante de novas tecnologias e soluções inteligentes para desafios complexos.</li>
-        <li>⚙️ <b>Arquitetura de Dados:</b> Atualmente aprofundando conhecimentos em lógica de programação aplicada à Ciência de Dados.</li>
-        <li>🛠️ <b>Automação e Infraestrutura:</b> Interessado em otimizar processos de backend e gestão de infraestrutura Linux.</li>
+        <li>🌱 <b>Atualmente estudando:</b> Aprofundando em arquitetura de software e padrões de projeto na faculdade.</li>
+        <li>🔭 <b>Foco Principal:</b> Desenvolvimento Backend robusto, Ciência de Dados e automação de infraestrutura com Linux.</li>
+        <li>🧠 <b>Meta:</b> Criar código limpo e escalável, sempre buscando a melhoria contínua (1% melhor todo dia).</li>
+        <li>🐱 <b>Vibe:</b> Codando, aprendendo e relaxando.</li>
       </ul>
-      <p><i>Focado em converter dados brutos em insights estratégicos através de análise técnica e automação.</i></p>
     </td>
-    <td width="30%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" style="max-width: 250px;">
+    <td width="40%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/liU9F0jNwwXfrrsWKk/giphy.gif" width="100%" style="border-radius: 15px;">
     </td>
   </tr>
 </table>
 
----
+<div align="center">
 
-### 🌌 Tecnologias e Ferramentas
+<img src="https://user-images.githubusercontent.com/74038190/212284116-8630047e-c096-4203-8610-83a0d7b38667.gif" width="50%">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+### 🎹 Tech Stack (Minhas Ferramentas)
+
+<p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -39,27 +42,4 @@
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel_Avançado-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-</p>
-
----
-
-### 📊 Radar da Estação (GitHub Stats)
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevLucsMNS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLucsMNS&layout=compact&langs_count=7&theme=tokyonight" />
-</p>
-
----
-
-### 📡 Comunicação Intergaláctica
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/lucasmns7/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:lucasmoreiranunes2017@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+  <img src="
