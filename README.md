@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/f5/03/b5/f503b5d3eceb6a2e621773eb53a2f39c.gif" alt="Coffee Skeleton" width="350" />
+  <img src="https://i.pinimg.com/originals/f5/03/b5/f503b5d3eceb6a2e621773eb53a2f39c.gif" alt="Coffee Skeleton" width="100%" />
 </p>
 
 <h1 align="center">Olá, bem-vindo(a) ao meu perfil! 👋</h1>
